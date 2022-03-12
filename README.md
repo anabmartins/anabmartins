@@ -1,5 +1,13 @@
 <div align="center">
   <img src="https://cdn.7tv.app/emote/60ef4f0e7affbddfe715f992/4x">
+  <div id="badges">
+    <a href="https://linkedin.com/in/anabe-sc">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:anabeatrizm432@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </div>
   <h1>
     Hello there! 👋
   </h1>
