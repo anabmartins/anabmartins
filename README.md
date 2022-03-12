@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<div align="center">
+  <img src="https://cdn.7tv.app/emote/60ef4f0e7affbddfe715f992/4x">
+  <h1>
+    Hello there! 👋
+  </h1>
+</div>
 <!--
 **anabmartins/anabmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
