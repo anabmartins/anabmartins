@@ -4,7 +4,7 @@
     <a href="https://linkedin.com/in/anabe-sc">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="mailto:anabeatrizm432@gmail.com">
+     <a href="mailto:ana_beatriz-martins@estudante.sesisenai.org.br">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </div>
