@@ -12,7 +12,6 @@
     Welcome to my Github! 👋
   </h1>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabmartins&show_icons=true&theme=github_dark&exclude_repo=dotfiles&layout=compact" />
   <a href="https://github.com/anabmartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabmartins&show_icons=true&theme=github_dark&exclude_repo=dotfiles&layout=compact"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabmartins&layout=compact&langs_count=7&theme=github_dark&exclude_repo=dotfiles&layout=compact"/>
