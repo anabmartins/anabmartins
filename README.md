@@ -12,7 +12,7 @@
   <h1>
     Welcome to my Github! 👋
   </h1>
-</div>
+</div align="center">
   <a href="https://github.com/anabmartins">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=anabmartins&show_icons=true&theme=chartreuse-dark&exclude_repo=dotfiles&layout=compact"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabmartins&layout=compact&langs_count=7&theme=chartreuse-dark&exclude_repo=dotfiles&layout=compact"/>
