@@ -11,6 +11,7 @@
      <a href="mailto:ana_beatriz-martins@estudante.sesisenai.org.br">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
+    <br>
   </div>
 </div align="center">
   <a href="https://github.com/anabmartins">
