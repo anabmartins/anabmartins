@@ -10,6 +10,7 @@
     </a>
      <a href="mailto:ana_beatriz-martins@estudante.sesisenai.org.br">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+      <br>
     </a>
     <br>
   </div>
