@@ -1,6 +1,5 @@
 <div align="center">
   <div id="badges">
-      <img src="https://cdn.7tv.app/emote/60ef4f0e7affbddfe715f992/4x">
     <br>
     <a href="https://linkedin.com/in/anabe-sc">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
