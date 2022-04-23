@@ -1,5 +1,9 @@
 <div align="center">
-  <div id="badges">
+ 
+  <h1>
+    Welcome to my Github! 👋
+  </h1>
+   <div id="badges">
     <br>
     <a href="https://linkedin.com/in/anabe-sc">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -8,9 +12,6 @@
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </div>
-  <h1>
-    Welcome to my Github! 👋
-  </h1>
 </div align="center">
   <a href="https://github.com/anabmartins">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=anabmartins&show_icons=true&theme=chartreuse-dark&exclude_repo=dotfiles&layout=compact"/>
