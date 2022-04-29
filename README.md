@@ -1,20 +1,16 @@
 <div align="center">
  
   <h1>
-    Welcome to my Github! 👋
-     
+    Welcome to my Github! 👋   
   </h1>
-   <div id="badges">
-    <br>
-    <a href="https://linkedin.com/in/anabe-sc">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-     <a href="mailto:ana_beatriz-martins@estudante.sesisenai.org.br">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
-      <br>
-    </a>
-    <br>
-  </div>
+ 
+  ### Contatos:
+
+<div>
+<a href="https://instagram.com/anabe.m_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:ana_beatriz-martins@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/anabe-sc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 </div align="center">
   <a href="https://github.com/anabmartins">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=anabmartins&show_icons=true&theme=chartreuse-dark&exclude_repo=dotfiles&layout=compact"/>
