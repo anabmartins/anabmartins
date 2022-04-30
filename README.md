@@ -15,7 +15,6 @@
   <a href="https://github.com/anabmartins">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=anabmartins&show_icons=true&theme=chartreuse-dark&exclude_repo=dotfiles&layout=compact"/>
 </div>
-### 🔭 I’m currently studying analysis and systems development
  
 ### I'm currently learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
