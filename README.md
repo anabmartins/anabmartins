@@ -26,5 +26,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
+![snake gif](https://github.com/anabmartins/anabmartins/blob/output/github-contribution-grid-snake.gif)
