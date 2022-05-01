@@ -28,4 +28,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"             title="Python"     alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"                      title="Git"        alt="Git" width="40" height="40"/>&nbsp;
 
- ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
