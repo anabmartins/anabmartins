@@ -30,5 +30,5 @@
 
 ![Snake animation](https://github.com/anabmartins/anabmartins/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/anabmartins/anabmartins/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
