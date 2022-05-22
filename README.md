@@ -10,13 +10,13 @@
 <a href="https://instagram.com/anabe.m_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:ana_beatriz-martins@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anabe-sc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <a>Meu Discord: Anabe#0935</a>
 </div>
  <br>
 <div>
 <a href="https://github.com/anabmartins">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabmartins&layout=compact&langs_count=7&theme=midnight-purple"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabmartins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-Discord: Anabe#0935
 </div>
 
  
