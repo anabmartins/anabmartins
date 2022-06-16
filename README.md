@@ -3,7 +3,7 @@
 <div>
  <br>
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<a href="https://instagram.com/anabe.m_" class="fa fa-twitter" target="_blank"></a>
+<a href="https://instagram.com/anabe.m_" class="fa fa-instagram"></a>
 <a href = "mailto:ana_beatriz-martins@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anabe-sc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>   
  <div style="background-color:#7289da">
