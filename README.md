@@ -1,5 +1,6 @@
 <div align="center">
 <img src="banner-github.png" tittle="background-banner"/>
+ <br>
 <div>
 <a href="https://instagram.com/anabe.m_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:ana_beatriz-martins@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
