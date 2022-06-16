@@ -1,5 +1,5 @@
 <div align="center">
-<img src="anabmartins.png" tittle="background-banner"/>
+<img src="banner-github.png" tittle="background-banner"/>
  </div>
 <div>
 <a href="https://instagram.com/anabe.m_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
