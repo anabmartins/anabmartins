@@ -16,7 +16,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabmartins&layout=compact&langs_count=7&theme=midnight-purple"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabmartins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
- <h3>I'm currently learning:</h3>
+ <h2>💜I'm currently learning💜</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"        title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"        title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"         title="HTML5"      alt="HTML" width="40" height="40"/>&nbsp;
