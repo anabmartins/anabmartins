@@ -20,11 +20,6 @@
  </div>
  </div>
  <br>
-<div>
-<a href="https://github.com/anabmartins">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabmartins&layout=compact&langs_count=7&theme=midnight-purple"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabmartins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>
  <h2>💜I'm currently learning💜</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"        title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"        title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -32,5 +27,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"           title="CSS3"       alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"                title="NodeJS"     alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"                      title="Git"        alt="Git" width="40" height="40"/>&nbsp;
-
+<div>
+<a href="https://github.com/anabmartins">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabmartins&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabmartins&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</div>
   ![Snake animation](https://github.com/anabmartins/anabmartins/blob/output/github-contribution-grid-snake.svg)
