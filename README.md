@@ -1,6 +1,17 @@
 <div align="center">
 <img src="banner-github.png" tittle="background-banner"/>
 <div>
+ <h2>💜About me💜</h2>
+ <h3>
+ <ul>
+    <li>I'm a 16 year old student;</li>
+    <li>I'm in the 2nd year of Technical High School in Systems Development;</li>
+    <li>I'm more interested in Front-End;</li>
+    <li>I'm currently learning Python.</li>
+   </ul>
+ </h3>
+ </div>
+ <div>
 <br>
  <h2>💜Contacts💜</h2>
 <a href="https://instagram.com/anabe.m_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
