@@ -2,7 +2,7 @@
 <img src="banner.png" tittle="background-banner"/>
 <div align="left" column-count="2">
  <h2>👉About me:</h2>
- <div style="font-size:16px;"><ul>
+ <div><ul>
     <li>🌱I'm a 16 year old student;</li>
     <li>🌟I'm in the 2nd year of Technical High School in Systems Development;</li>
     <li>📚I'm more interested in Front-End;</li>
