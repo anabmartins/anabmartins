@@ -1,6 +1,6 @@
 <div align="center">
 <img src="banner.png" tittle="background-banner"/>
-<div>
+<div align="left">
  <h2>👉About me:</h2>
  <div><ul>
     <li>🌱I'm a 16 year old student;</li>
