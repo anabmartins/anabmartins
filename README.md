@@ -1,6 +1,6 @@
 <div align="center">
 <img src="banner.png" tittle="background-banner"/>
-<div align="left" column-count="2">
+<div>
  <h2>👉About me:</h2>
  <div><ul>
     <li>🌱I'm a 16 year old student;</li>
@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/anabe-sc" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a><br>    <h4>Discord: Anabe#0935</h4> <br>
  </div>
  
-  <div align="center">
+  <div>
 <a href="https://github.com/anabmartins">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabmartins&layout=compact&langs_count=7&theme=great-gatsby"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabmartins&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
