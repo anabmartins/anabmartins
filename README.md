@@ -10,7 +10,7 @@
   </ul></div>
  <div>
  <h2>👉Contacts:</h2>
-<a href="https://instagram.com/anabe.m_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/anabe.m_" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a href = "mailto:ana_beatriz-martins@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anabe-sc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>    <h3>Discord: Anabe#0935</h3> <br>
  </div>
