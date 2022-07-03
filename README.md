@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner-github.png" tittle="background-banner"/>
+<img src="banner.png" tittle="background-banner"/>
 <div align="left">
  <h2>👉About me👈</h2>
  <ul>
