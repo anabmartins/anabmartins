@@ -1,14 +1,13 @@
 <div align="center">
 <img src="banner.png" tittle="background-banner"/>
-<div align="left">
+<div align="left" column-count="2">
  <h2>👉About me👈</h2>
- <ul>
+ <div><ul>
     <li>🌱I'm a 16 year old student;</li>
     <li>🌟I'm in the 2nd year of Technical High School in Systems Development;</li>
     <li>📚I'm more interested in Front-End;</li>
     <li>🧩I'm currently learning Python.</li>
-   </ul>
- </div>
+  </ul></div>
  <div>
  <h2>👉Contacts👈</h2>
 <a href="https://instagram.com/anabe.m_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -17,6 +16,8 @@
  <div style="background-color:#7289da">
  <h3>Discord: Anabe#0935</h3>
  </div>
+ </div>
+ 
   <div>
 <a href="https://github.com/anabmartins">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabmartins&layout=compact&langs_count=7&theme=tokyonight"/>
