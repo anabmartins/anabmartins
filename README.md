@@ -19,7 +19,7 @@
  </div>
   <div>
 <a href="https://github.com/anabmartins">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabmartins&layout=compact&langs_count=7&theme=merko"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabmartins&layout=compact&langs_count=7&bg_color=DEG, ##FCB848, ##FFB649, #37BFAC"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabmartins&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
  </div>
