@@ -10,9 +10,9 @@
   </ul></div>
  <div>
  <h2>👉Contacts:</h2>
-<a href="https://instagram.com/anabe.m_" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank"/></a>
-<a href="mailto:ana_beatriz-martins@estudante.sesisenai.org.br" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" target="_blank"/></a>
-<a href="https://www.linkedin.com/in/anabe-sc" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" target="_blank"/></a><br>    <h4>Discord: Anabe#0935</h4> <br>
+<a href="https://instagram.com/anabe.m_" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="mailto:ana_beatriz-martins@estudante.sesisenai.org.br" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+<a href="https://www.linkedin.com/in/anabe-sc" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a><br>    <h4>Discord: Anabe#0935</h4> <br>
  </div>
  
   <div>
