@@ -6,7 +6,7 @@
     <li>🌱I'm a 16 year old student;</li>
     <li>🌟I'm in the 2nd year of Technical High School in Systems Development;</li>
     <li>📚I'm more interested in Front-End;</li>
-    <li>🧩I'm currently learning Python.</li>
+    <li>🧩I'm currently learning React Native.</li>
   </ul></div>
  <div>
  <h2>👉Contacts:</h2>
